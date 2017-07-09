@@ -5,13 +5,13 @@ The goal is to design and create the structure of a ReportCard Java Class which 
 
 This project will be just a java class, rather than a full Android app.
 
-CONCEPTS COVERED:
+## CONCEPTS COVERED:
 
-1.Designing a custom class
+- Designing a custom class
 
-2.Creating that class in Java code.
+- Creating that class in Java code.
 
-3.Storing information in an array
+- Storing information in an array
 
-4.Looping through an array
+- Looping through an array
 
